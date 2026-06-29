@@ -1,0 +1,1 @@
+class NoteApp: pass
