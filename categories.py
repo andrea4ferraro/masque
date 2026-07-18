@@ -1,0 +1,9 @@
+CATEGORIES = [
+
+    "Work",
+
+    "Personal",
+
+    "Ideas"
+
+]
