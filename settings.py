@@ -1,0 +1,3 @@
+DEFAULT_CATEGORY = "General"
+
+MAX_PREVIEW = 40
